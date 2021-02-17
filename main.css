@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    height: 2000px;
+}
+#headerMain{
+    background-color: #f8d568;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    margin-bottom: 100px;
+
+}
+#headerMain ul{
+    font-size: 25px;
+}
+#headerMain li{
+    display: inline;
+    list-style: none;
+
+}
+#nav{
+    float: right;
+   
+}
+h3{
+    font-size: 25;
+    float: left;
+}
+#mainCardArea{
+    position: relative;
+    margin-top: 50px;
+    
+}
+.cards{
+    padding: 5px;
+    border: 2px solid #f8d568;
+    width: 300px;
+    margin: 20px;
+    float: left;
+}
+.cardText{
+    padding: 10px;
+}
+#nameOf{
+    float: left;
+    font-size: 25px;
+    padding-left: 15px;
+}
+.moreInfo{
+    background-color: #f8d568;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+
+
